@@ -4,4 +4,8 @@ Here, you can find our group's Bird Image Classification Project for CS464 Machi
 * Multinomial Logistic Regression
 * Random Forest
 
-In the pdf file , you can find the project report that explains our methodology and results. Lastly, for our project, we used the public dataset "BIRDS 525 SPECIES" from Kaggle ("https://www.kaggle.com/datasets/gpiosenka/100-bird-species/code"), by pre-processing and adjusting it to our specific task.
+In the pdf file , you can find the project report that explains our methodology and results. 
+
+In `main.ipynb` file you can find the notebook that contains the implementation of the project.
+
+Lastly, for our project, we used the public dataset "BIRDS 525 SPECIES" from Kaggle ("https://www.kaggle.com/datasets/gpiosenka/100-bird-species/code"), by pre-processing and adjusting it to our specific task.
