@@ -3,4 +3,5 @@ Here, you can find our group's Bird Image Classification Project for CS464 Machi
 * Transfer Learning with pre-trained models EfficientNet-B0 and ResNet50
 * Multinomial Logistic Regression
 * Random Forest
-For our project, we used the public dataset "BIRDS 525 SPECIES" from Kaggle ("https://www.kaggle.com/datasets/gpiosenka/100-bird-species/code"), by pre-processing and adjusting it to our specific task.
+
+In the pdf file , you can find the project report that explains our methodology and results. Lastly, for our project, we used the public dataset "BIRDS 525 SPECIES" from Kaggle ("https://www.kaggle.com/datasets/gpiosenka/100-bird-species/code"), by pre-processing and adjusting it to our specific task.
