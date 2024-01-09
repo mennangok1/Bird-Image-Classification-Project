@@ -1,4 +1,4 @@
-Here, you can find our group's Bird Image Classification Project for CS464 Machine Learning course, offered by Bilkent University. In this project, our aim was to experiment with various Machine Learning and Deep Learning methods to successfuly classify 10 bird classes. Our project utilizes the methods:
+Here, you can find our group's Bird Image Classification Project for CS464 Introduction to Machine Learning course, offered by Bilkent University. In this project, our aim was to experiment with various Machine Learning and Deep Learning methods to successfuly classify 10 bird classes. Our project utilizes the methods:
 * Convolutional Neural Networks
 * Transfer Learning with pre-trained models EfficientNet-B0 and ResNet50
 * Multinomial Logistic Regression
